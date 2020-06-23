@@ -1,7 +1,6 @@
-Code Commit
-===============
+# Code Commit #
 
-Branching
-===========
+
+## Branching ##
 
 Create branch -> git checkout -b <branch name>
